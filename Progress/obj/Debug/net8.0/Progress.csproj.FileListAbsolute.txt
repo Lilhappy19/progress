@@ -1,0 +1,7 @@
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.csproj.AssemblyReference.cache
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.AssemblyInfoInputs.cache
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.AssemblyInfo.cs
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.csproj.CoreCompileInputs.cache
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lilhappy18\source\repos\Progress\obj\Debug\net8.0\Progress.MvcApplicationPartsAssemblyInfo.cache
